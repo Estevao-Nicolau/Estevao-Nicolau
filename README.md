@@ -1,6 +1,7 @@
-###  Ola, Sou o Estevao Nicolau. 
-### **Faço Anáilise e Desenvolvimento de Sitema estou no segundo semestre**. 
+###  Ola, Sou o Estevao Nicolau. 🧑🏻‍💻
 ### 🛠️ No momento estou fazendo alguns projeto com dotNet, Java, javaScript, HTML5, CSS3, SQL, Python.
+### ⚡ **Sou Muito Curioso**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
 
 
 <div>
@@ -9,7 +10,8 @@
  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Estevao-Nicolau&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-  ##
+ ## <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="25"> linguagens e ferramentas: 
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Estevao-Nicolau-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Estevao-Nicolau-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
