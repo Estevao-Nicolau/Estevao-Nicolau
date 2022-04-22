@@ -1,24 +1,25 @@
-###  Ola, Sou o Estevao Nicolau. 🧑🏻‍💻
-### 🛠️ No momento estou fazendo alguns projeto com dotNet, Java, javaScript, HTML5, CSS3, SQL, Python.
-### ⚡ **Sou Muito Curioso**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Estevão Nicolau</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Estevao-Nicolau&color=yellow" alt="Profile views" /> </p>
+- 🔥 Junior Full-stack  
 
+- 🔭 Currently working at freelancer 
 
-
-<div>
- <a href="https://github.com/Estevao-Nicolau">
- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Estevao-Nicolau&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Estevao-Nicolau&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
- ## <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="25"> linguagens e ferramentas: 
-
+## 🛠 &nbsp;Tech Stack
 <div style="display: inline_block"><br>
+ <img align="center" alt="Estevao-Nicolau-androidstudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
+ <img align="center" alt="Estevao-Nicolau-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+ <img align="center" alt="Estevao-Nicolau-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+ <img align="center" alt="Estevao-Nicolau-vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Estevao-Nicolau-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Estevao-Nicolau-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Estevao-Nicolau-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Estevao-Nicolau-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+ <img align="center" alt="Estevao-Nicolau-typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Estevao-Nicolau-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Estevao-Nicolau-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Estevao-Nicolau-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
- <img align="center" alt="Estevao-Nicolau-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+ <img align="center" alt="Estevao-Nicolau-mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+ <img align="center" alt="Estevao-Nicolau-postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+ <img align="center" alt="Estevao-Nicolau-postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
 </div>
   
   ##
