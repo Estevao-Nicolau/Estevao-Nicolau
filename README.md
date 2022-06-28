@@ -2,8 +2,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Estevao-Nicolau&color=yellow" alt="Profile views" /> </p>
 - 🔥 Junior Back-End | Dev-Mobile   
 
-- 🔭 Currently working at freelancer 
-
 ## 🛠 &nbsp;Tech Stack
 <div style="display: inline_block"><br>
  
