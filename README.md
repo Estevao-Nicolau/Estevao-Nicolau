@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Estevão Nicolau</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Estevao-Nicolau&color=yellow" alt="Profile views" /> </p>
-- 🔥 Junior Back-End | Dev-Mobile   
+- 🔥 Junior Dev-Mobile   
 
 ## 🛠 &nbsp;Tech Stack
 <div style="display: inline_block"><br>
