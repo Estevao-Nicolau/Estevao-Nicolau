@@ -1,5 +1,4 @@
-# Estevao Nicolau
-- 🔥 Junior Dev-Mobile   
+# Estevao Nicolau   
 
 ## 🛠 &nbsp;Tech Stack
 <div style="display: inline_block"><br>
